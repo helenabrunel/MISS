@@ -1,0 +1,11 @@
+Package: MISS
+Version: 0.2
+Date: 2009-10-16
+Title: Mutual Information Statistical Significance (MISS) for genetic association studies
+Author: Helena Brunel and Alexandre Perera
+Maintainer: Helena Brunel <helena.brunel@upc.edu>
+Depends: R (>= 2.5.0), KernSmooth, Hmisc, snow, Rmpi, rsprng
+Description: This package provides a floating feature selection algorithm using a Mutual Information Statistical Significance Criterion. In particular it has been designed for its application in genetic association studies.
+License: GPL (>= 2)
+URL: http://www.r-project.org, 
+Packaged: Wed Mar 17 15:58:53 2010; hbrunel
