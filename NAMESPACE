@@ -1,0 +1,3 @@
+ 
+export(cl, file1, file2, file3, reps, pval, oFdata, ophen, iFsel)
+export(CheckGroup, concat, Entropy, FindColumnNoSignificant_MISS,  FindColumnNoSignificant_MLR, FindColumnSignificances_MISS, FindColumnSignificances_MLR, GroupPvalue_MISS, GroupPvalue_MLR, isNoSignif_MISS, isNoSignif_MLR, isSignif_MISS, isSignif_MLR, JointEntropy, MutualInformation, NullDistFeno, NullMIDistSurrogate, pvalue, RemoveMissings, sffs_MISS, sffs_MLR)
